@@ -1,0 +1,3 @@
+C:/Users/B-Zone/CLionProjects/lecturer0/cmake-build-debug/CMakeFiles/lecturer0.dir
+C:/Users/B-Zone/CLionProjects/lecturer0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/B-Zone/CLionProjects/lecturer0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

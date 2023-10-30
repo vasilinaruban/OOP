@@ -1,8 +1,5 @@
 # ninja log v5
-1687	2302	7201284745500026	bebra.exe	9564717d83fd8b00
-4	380	7201285157189368	build.ninja	5449c5d0da0202e1
-9	1681	7201284739360021	CMakeFiles/bebra.dir/Rational.cpp.obj	fe6af72afdd2ccb8
-1	1687	7201284739350035	CMakeFiles/bebra.dir/main.cpp.obj	14fa0ad6eabe6aa7
-2	388	7201285157189368	build.ninja	5449c5d0da0202e1
-9	2666	7201286547241475	CMakeFiles/bebra.dir/main.cpp.obj	14fa0ad6eabe6aa7
 2668	3392	7201286554461337	bebra.exe	9564717d83fd8b00
+2	388	7203805571551408	build.ninja	5449c5d0da0202e1
+9	1681	7201284739360021	CMakeFiles/bebra.dir/Rational.cpp.obj	fe6af72afdd2ccb8
+9	2666	7201286547241475	CMakeFiles/bebra.dir/main.cpp.obj	14fa0ad6eabe6aa7
