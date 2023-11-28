@@ -47,5 +47,6 @@ int main() {
         return 2;
     }
     std::cout << res;
+    r1.plus_one();
     return 0;
 }
